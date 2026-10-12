@@ -42,7 +42,7 @@ reliance to `Crime_Count_lag1` and `Month_num` once `roll3` no longer
 contained the answer. Whether either model beats a simple seasonal-naive
 forecast is still to be tested properly in Step 3.
 
-## Comparison against seasonal-naive baseline (section 4.7) Step 3
+## Comparison against seasonal-naive baseline (section 4.7)
 
 | Model | MAE | RMSE |
 |---|---|---|
