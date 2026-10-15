@@ -77,7 +77,7 @@ Full numbers recorded in `results/v2_metrics.md`.
 ## 3–4: Finding a fair benchmark (2026-09-30)
 
 Added a seasonal-naive baseline (predict each month as equal to the same
-month last year) and a walk-forward backtest across 3 origins. Result:
+month last year) and a walk-forward backtest across 4 origins. Result:
 seasonal-naive (MAE 188.1) beat Holt-Winters (299.8), Random Forest
 (361.5), and Linear Regression (526.9). With only 36 months of data,
 none of the more complex methods had enough history to beat simply
